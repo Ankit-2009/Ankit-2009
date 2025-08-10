@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--![Hi there animation](assets/.apng) -->
 <!--
 **Ankit-2009/Ankit-2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
